@@ -1,4 +1,4 @@
-# [Lovely code] Check my `javascript` with `eslint`
+# \[[Lovely code](https://github.com/gustarus/lovely-code)\] Check my `javascript` with `eslint`
 Please, read before about [lovely-code collection](https://github.com/gustarus/lovely-code).
 
 ## What is included in standards?
