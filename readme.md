@@ -32,7 +32,7 @@ yarn add browserslist-config-lovely-code --dev
 ### How to install the presents?
 **1. Add via yarn package manager**
 ```bash
-yarn add lovely-code
+yarn add eslint-config-lovely-code
 ```
 
 ### How to use default configuration?
